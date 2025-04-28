@@ -50,7 +50,8 @@ Explanation: Instead of manually downloading the file, a direct link is used to 
 
 1. **Data Cleaning With Pandas**  
 
-2. **EDA (Exploratory Data Analysis):**  
+2. **EDA (Exploratory Data Analysis):**
+   Co-Relation (HEATMAP):
    - video_cost vs video_type
    - video_cost vs category
    - video_cost vs engagement_rate_of_channel
