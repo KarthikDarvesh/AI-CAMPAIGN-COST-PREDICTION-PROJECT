@@ -48,7 +48,7 @@ Explanation: Instead of manually downloading the file, a direct link is used to 
 
 ## 🔍 Data Analysis Workflow
 
-1. **Data Cleaning with pandas**  
+1. **Data Cleaning With Pandas**  
 
 2. **EDA (Exploratory Data Analysis):**  
    - video_cost vs video_type
