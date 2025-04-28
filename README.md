@@ -182,11 +182,14 @@ In the final model testing phase, the trained **RandomForestRegressor** model wa
 
 ### 📁 Project Structure
 
-**AI_Campaign_Cost_Prediction_Project/
+AI_Campaign_Cost_Prediction_Project/
 ├── app.py # FastAPI app with /predict endpoint
+
 ├── Dockerfile # For containerizing the API
+
 ├── requirements.txt # Python dependencies
-├── RF_trained_model.pkl # Trained RandomForestRegressor model**
+
+├── RF_trained_model.pkl # Trained RandomForestRegressor model
 
 ---
 
