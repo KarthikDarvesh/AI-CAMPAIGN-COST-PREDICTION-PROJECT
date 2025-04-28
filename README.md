@@ -52,20 +52,22 @@ Explanation: Instead of manually downloading the file, a direct link is used to 
 
 2. **EDA (Exploratory Data Analysis):**
    Co-Relation (HEATMAP):
+   
    - video_cost vs video_type
    - video_cost vs category
    - video_cost vs engagement_rate_of_channel
 
-3. **Outlier Detection with Scatter & Box Plots**  
+4. **Outlier Detection with Scatter & Box Plots**  
   
-4. **Brand-Specific Outlier Cleaning**  
+5. **Brand-Specific Outlier Cleaning**  
    - Each brand had its own subset of outliers removed using IQR (Interquartile Range)
    - Notable Features
+     
      ● Outlier Removal Strategy:
        Each category of campaign is analyzed and cleaned individually.
        A sequence of before-and-after visuals highlights the effect of outlier filtering.
 
-5. **Feature Engineering Before Feeding to Model**  
+6. **Feature Engineering Before Feeding to Model**  
 After testing with many models, both RandomForestRegressor and XGBRegressor
 provided good accuracy for predicting campaign costs.
 
