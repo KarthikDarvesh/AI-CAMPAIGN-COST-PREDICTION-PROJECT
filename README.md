@@ -37,12 +37,12 @@ Explanation: Instead of manually downloading the file, a direct link is used to 
 
 ## 🧰 Tools & Libraries
 
-- **pandas** – Data manipulation  
-- **numpy** – Numerical operations  
-- **matplotlib**, **seaborn** – Data visualizations  
-- **scikit-learn**, **XGBoost** – ML models  
-- **FastAPI** – API development  
-- **joblib** – Model serialization
+- **pandas** 
+- **numpy**
+- **matplotlib**, **seaborn**
+- **scikit-learn**, **XGBoost**
+- **FastAPI** 
+- **joblib**
 
 ---
 
